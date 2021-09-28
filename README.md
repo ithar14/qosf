@@ -1,2 +1,0 @@
-# qost
-Task 1
